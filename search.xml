@@ -2,8 +2,14 @@
 <search>
   <entry>
     <title>hello-world</title>
-    <url>/post/undefined.html</url>
+    <url>/post/b1d4025b.html</url>
     <content><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>测试</p>
 ]]></content>
+      <categories>
+        <category>3</category>
+      </categories>
+      <tags>
+        <tag>1</tag>
+      </tags>
   </entry>
 </search>
